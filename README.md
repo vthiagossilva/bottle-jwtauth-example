@@ -3,15 +3,15 @@
 ## Esta é uma pequena API com Bottle Framework para exemplificar o processo de criação de usuário, login e proteção de rotas utilizando token JWT
 
 ### Funcionalidades
-    * Registro de usuário
-    * Login
-    * Proteção de rotas
+ - Registro de usuário
+ - Login
+ - Proteção de rotas
 
 > Status: Concluido :heavy_check_mark:
 
 ### Pré-requisitos
-    * Python >=3.6.x
-    * pip
+- Python >=3.6.x
+- pip
 
 ### Opcional
     * Virtualenv
@@ -19,20 +19,20 @@
 ## Para rodar a API
 
 Clone o repositório
-ˋˋˋ
+ˋˋ
 git clone https://github.com/vthiagossilva/bottle-jwtauth-example.git
-ˋˋˋ
+ˋˋ
 
 Instale as dependências
-ˋˋˋ
+ˋˋ
 pip install -r requiriments.txt
-ˋˋˋ
+ˋˋ
 
 Inicie o servidor
-ˋˋˋ
+ˋˋ
 python src/app.py
-ˋˋˋ
+ˋˋ
 
 ### Libs utilizadas
-    * Bottle (Web Framework)
-    * Peewee (ORM)
+- Bottle (Web Framework)
+- Peewee (ORM)
