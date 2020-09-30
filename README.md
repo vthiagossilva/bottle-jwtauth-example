@@ -20,9 +20,9 @@
 ## Para rodar a API
 
 Clone o repositório
-ˋˋ
+```
 git clone https://github.com/vthiagossilva/bottle-jwtauth-example.git
-ˋˋ
+```
 
 Instale as dependências
 ```
